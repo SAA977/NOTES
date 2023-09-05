@@ -11,8 +11,9 @@ c^2=a^2+b^2
 $$
 
 $$
-\frac{1}{2}
+\frac{1}{2+\frac{1}{2}}
 $$
+
 ```python
 print(not(0))
 print(not(1))
