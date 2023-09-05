@@ -15,9 +15,9 @@ $$
 $$
 
 
-<https://www.youtube.com/watch?v=dQw4w9WgXcQ>
 
-.[Авито](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+
+[https://vc.ru/story/39311-github-platforma-dlya-velikih-prilozheniy](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 
 ```python
