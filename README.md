@@ -14,6 +14,11 @@ $$
 \frac{1}{2+\frac{1}{2}}
 $$
 
+
+<https://www.youtube.com/watch?v=dQw4w9WgXcQ>
+.[Авито](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+
+
 ```python
 print(not(0))
 print(not(1))
