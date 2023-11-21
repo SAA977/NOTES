@@ -13,3 +13,21 @@ cout << d;
 return 0; 
   
 }
+--------------------------------------------------------------------------------------
+
+
+#include <iostream>
+#include <math.h>
+using namespace std;
+
+int main()
+{
+
+double x, y, c;
+cin >> x;
+cin >> y;
+c = ((sqrt(x))+(sqrt(y)))/(5*x-7);
+cout << c;
+return 0; 
+  
+}
