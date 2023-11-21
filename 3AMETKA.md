@@ -1,10 +1,19 @@
-
 #include <iostream>
+using namespace std;
 
-int main() {
+int main(){
     
-    std::cout << "hello world!\n";
-    std::cout << "I am Groot!\n";
-    std::cout << "Привет, мир!\n";    
-    return 0;
+    double a, b, c;
+    cin >> a;
+    cin >> b;
+    c = a + b;
+    cout << a <<"+"<< b <<"="<< c <<"\n";
+    c = a - b;
+    cout << a <<"-"<< b <<"="<< c <<"\n";
+    c = a * b;
+    cout << a <<"*"<< b <<"="<< c <<"\n";
+    c = a / b;
+    cout <<a <<"/"<< b <<"="<< c <<"\n";
+    
+return 0;
 }
