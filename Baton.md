@@ -23,11 +23,12 @@ using namespace std;
 int main()
 {
 
-double x, y, c;
+double x, y, c, v;
 cin >> x;
 cin >> y;
 c = ((sqrt(x))+(sqrt(y)))/(5*x-7);
-cout << c;
+v = sqrt(c);
+cout << v;
 return 0; 
   
 }
